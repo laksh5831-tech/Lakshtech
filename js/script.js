@@ -1,5 +1,5 @@
 /* ==========================================================================
-   LakshTech Solutions — Global behaviour
+   LakshTech Solutions - global behaviour
    --------------------------------------------------------------------------
    Vanilla JavaScript. No frameworks, no dependencies.
    Modules
